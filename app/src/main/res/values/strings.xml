@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToeProject</string>
+    <string name="home_title">Tic Tac Toe with AI</string>
+    <string name="play_btn_title">Play</string>
+    <string name="match_title">Start playing!</string>
+    <string name="erase_btn_title">Reset Game</string>
+</resources>
